@@ -1,6 +1,5 @@
 Functional Requirements
-student
-teacher
+user: student and teacher
 
 student shoulld login view learning materials, videos, progress, games, quizzes, flashcards
 studnet should be able learn translation
@@ -10,7 +9,7 @@ chatbot gives hint about translation
 
 
 Non-Functional Requirements
-technical person , developers
+for technical person , developers
 
 a website / app should handle more than 20million users
 
@@ -19,3 +18,9 @@ student should never update info in progress bar
 only teachers should have the access to update
 
 it should be portable os
+
+
+The overall observation from different model which i tried is Meta AI , ChatGPT and Claude.
+the better response is from ChatGPT and Claude. Meta AI hasnt given accurate conversation response
+
+Due to limitation in freee tier claude i am unable to explore further.
